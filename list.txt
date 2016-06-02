@@ -1,1 +1,0 @@
-[{"name_c":"o","date":"o","address":"o","tel_num":"o","link":"o","about":"o","logo":"o","photo":"o","id":0}]
